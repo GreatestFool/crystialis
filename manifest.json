@@ -1,0 +1,59 @@
+{
+  "minecraft": {
+    "version": "1.12.2",
+    "modLoaders": [
+      {
+        "id": "forge-14.23.4.2705",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "crystialis",
+  "version": "1.0",
+  "author": "sermenk",
+  "files": [
+    {
+      "projectID": 238222,
+      "fileID": 2566347,
+      "required": true
+    },
+    {
+      "projectID": 239197,
+      "fileID": 2554607,
+      "required": true
+    },
+    {
+      "projectID": 226406,
+      "fileID": 2482584,
+      "required": true
+    },
+    {
+      "projectID": 225928,
+      "fileID": 2445809,
+      "required": true
+    },
+    {
+      "projectID": 250363,
+      "fileID": 2557287,
+      "required": true
+    },
+    {
+      "projectID": 250577,
+      "fileID": 2476494,
+      "required": true
+    },
+    {
+      "projectID": 245287,
+      "fileID": 2475117,
+      "required": true
+    },
+    {
+      "projectID": 226447,
+      "fileID": 2477566,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
