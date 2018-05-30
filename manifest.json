@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "crystialis",
-  "version": "1.0",
+  "version": "1.1",
   "author": "sermenk",
   "files": [
     {
@@ -27,11 +27,6 @@
     {
       "projectID": 226406,
       "fileID": 2482584,
-      "required": true
-    },
-    {
-      "projectID": 225928,
-      "fileID": 2445809,
       "required": true
     },
     {
@@ -52,6 +47,26 @@
     {
       "projectID": 226447,
       "fileID": 2477566,
+      "required": true
+    },
+    {
+      "projectID": 32274,
+      "fileID": 2498312,
+      "required": true
+    },
+    {
+      "projectID": 225605,
+      "fileID": 2489549,
+      "required": true
+    },
+    {
+      "projectID": 225604,
+      "fileID": 2489566,
+      "required": true
+    },
+    {
+      "projectID": 243121,
+      "fileID": 2544279,
       "required": true
     }
   ],
