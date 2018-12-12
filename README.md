@@ -1,5 +1,3 @@
-# crystialis
+# Crystialis 2
 
-1.10 version
-
-# consider it deprecated
+1.12 version
