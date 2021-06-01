@@ -15,7 +15,7 @@
 # * (Optional) Releasing a new version on Curseforge
 #   NOTE Only Releases will be available on Curseforge. The repository will contain Alphas, Betas and Releases.
 #   NOTE Subject to change.
-# * Path variables to shorten required hard linking
+# * Path variables to shorten required hard linking. E.g. pack-path='this/is/a/path/*'
 # * Arrays to loop through folder to pick out targets for Hard symlinks
 # * Arrays to loop through folders for Junction symlinking
 #
