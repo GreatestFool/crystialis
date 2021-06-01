@@ -19,8 +19,11 @@
 # * Arrays to loop through folder to pick out targets for Hard symlinks
 # * Arrays to loop through folders for Junction symlinking
 #
-# NOTE Look at twitch-export-builder for how to replicate behaviour. https://github.com/Gaz492/twitch-export-builder/ and https://github.com/Gaz492/twitch-export-builder/.
-# NOTE There's also nothing stopping me from simply using the binaries by launching them via. this script or anything. Something to consider.
+# Look at twitch-export-builder for how to replicate behaviour. https://github.com/Gaz492/twitch-export-builder/ and https://github.com/Gaz492/twitch-export-builder/.
+#   NOTE There's also nothing stopping me from simply using the binaries by launching them via. this script or anything. Something to consider.
+# This is a tad older and is made in Python, but it may still be helpful. https://github.com/tcheinen/twitch-modpack-exporter.
+#
+# This also looks like it is pretty much what I wanted, for the management side of installing mods and such and aside from the auto uploading releases part. https://github.com/dizzyd/mcdex
 #
 # ---
 #
