@@ -20,6 +20,7 @@
 # * Arrays to loop through folders for Junction symlinking
 #
 # NOTE Look at twitch-export-builder for how to replicate behaviour. https://github.com/Gaz492/twitch-export-builder/ and https://github.com/Gaz492/twitch-export-builder/.
+# NOTE There's also nothing stopping me from simply using the binaries by launching them via. this script or anything. Something to consider.
 #
 # ---
 #
