@@ -24,6 +24,7 @@
 # This is a tad older and is made in Python, but it may still be helpful. https://github.com/tcheinen/twitch-modpack-exporter.
 #
 # This also looks like it is pretty much what I wanted, for the management side of installing mods and such and aside from the auto uploading releases part. https://github.com/dizzyd/mcdex
+# NOTE Being a cli tool, this may also be rather helpful to use *in* this script. E.g. looping through an array that is piped to the install of mcdex... That could work. Will investigate.
 #
 # ---
 #
