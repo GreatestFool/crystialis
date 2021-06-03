@@ -1,0 +1,15 @@
+{
+ "manifestType": "minecraftModpack",
+ "manifestVersion": 1,
+ "minecraft": {
+  "modLoaders": [
+   {
+    "id": "forge-36.1.0",
+    "primary": true
+   }
+  ],
+  "version": "1.16.5"
+ },
+ "name": "Roots of Crystialis",
+ "version": "0.0.1"
+}
